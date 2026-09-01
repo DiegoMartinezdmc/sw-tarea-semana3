@@ -167,3 +167,8 @@ Content-Type: application/json
 - `200 OK`: la consulta se realizo correctamente.
 - `201 CREATED`: el producto fue creado correctamente.
 - `404 NOT FOUND`: no existe un producto con el ID solicitado.
+
+## Contribucion y Colaboracion
+
+- **Modificacion hecha por Javier:** Creacion de rama de trabajo, comentarios de documentacion y verificacion tecnica del proyecto sin alterar la funcionalidad del programa.
+

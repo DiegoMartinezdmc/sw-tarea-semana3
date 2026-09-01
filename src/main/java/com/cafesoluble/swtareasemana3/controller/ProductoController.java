@@ -14,6 +14,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * Controlador REST para el catálogo de productos de Café Soluble S.A.
+ * Modificación hecha por Javier.
+ */
 @RestController
 @RequestMapping("/api/productos")
 public class ProductoController {
