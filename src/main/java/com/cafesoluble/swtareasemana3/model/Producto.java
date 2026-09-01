@@ -1,5 +1,9 @@
 package com.cafesoluble.swtareasemana3.model;
 
+/**
+ * Entidad de dominio Producto para el catálogo de Café Soluble S.A.
+ * Modificación hecha por Javier.
+ */
 public class Producto {
 
     private Long id;
